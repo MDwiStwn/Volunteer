@@ -18,6 +18,7 @@
 
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="<?= base_url('css/style.css') ?>" />
+    <link rel="stylesheet" href="<?= base_url('css/darkmode.css') ?>" />
 </head>
 <body>
     <!-- Memasukkan komponen header -->
@@ -45,5 +46,6 @@
 
     <!-- Main Script -->
     <script src="<?= base_url('js/script.js') ?>"></script>
+    <script src="<?= base_url('js/darkmode.js')?>"></script>
 </body>
 </html>
