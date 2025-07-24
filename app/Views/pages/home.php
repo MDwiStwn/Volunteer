@@ -42,7 +42,7 @@
         </p>
         <h3 class="text-2xl md:text-xl sm:text-lg font-semibold mb-2 text-yellow-600">Kisah Kami</h3>
         <p class="text-base md:text-sm leading-relaxed">
-            Didirikan pada tahun 2010, Organisasi Peduli dimulai dengan visi sederhana: untuk menyatukan orang-orang yang ingin memberikan dampak nyata. Kini, kami telah menjadi jembatan kebaikan bagi ribuan donatur di seluruh Indonesia.
+            Didirikan pada tahun 2025, Organisasi Peduli dimulai dengan visi sederhana: untuk menyatukan orang-orang yang ingin memberikan dampak nyata. Kini, kami telah menjadi jembatan kebaikan bagi ribuan donatur di seluruh Indonesia.
         </p>
         </div>
 
